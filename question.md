@@ -18,6 +18,8 @@ Internet est le réseau informatique mondial accessible au public. Un réseau de
 
 - Qu’est-ce que cela :
 - 8.8.8.8
+C'est l'adresse public du domain name server de Google
+
 - 192.168.0.1
 - 255.255.255.0
 - 127.0.0.1
