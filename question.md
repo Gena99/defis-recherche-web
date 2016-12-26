@@ -1,5 +1,21 @@
 - Par qui, quand, pourquoi et où a été inventé Internet ?
+Dans les années 1960, en pleine guerre froide, les autorités militaires américaines demandent aux universités de réfléchir à un système de réseau fiable qui, en cas d'attaque ennemie, pourrait rediriger les données qui y circulent. Arpanet voit ainsi le jour en 1969, ne reliant que quelques ordinateurs. En 1973 se développe le protocole TCP/IP, adopté en 1976. En 1983, pour éviter la surcharge du réseau, un groupe de chercheurs crée le système de noms de domaine. Mais c'est en 1989 que Tim Berners-Lee, chercheur à Genève, invente le premier serveur Web et le premier client Web : WWW (World Wide Web). Internet est né, sous forme de pages en HTML, mélangeant du texte, des liens et des images, avec comme adresse une URL, accessible via le protocole HTTP.
+
+
+
+
+
+
+
 - Quelle est la différence entre le Web et Internet ?
+Internet est le réseau informatique mondial accessible au public. Un réseau de réseaux sans centre névralgique composé de million de réseaux publics et privés. L'ensemble est standardisé de protocoles et de transfert de données qui permet l'élaboration d'applications et de service comme la messagerie instantanée, le courrier électronique, le pair à pair et le world wide web. C'est par ce dernier que l'internet a été popularisé qui n'est qu'une des applications d'internet.
+
+
+
+
+
+
+
 - Qu’est-ce que cela :
 - 8.8.8.8
 - 192.168.0.1
