@@ -21,9 +21,13 @@ Internet est le réseau informatique mondial accessible au public. Un réseau de
 C'est l'adresse public du domain name server de Google
 
 - 192.168.0.1
+
+Un masque de sous réseau
  est une adresse IP par défaut utilisée par les routeurs Netgear et D-Link pour s'identifier sur le réseau. 
 
 - 255.255.255.0
+Un masque de sous réseau
+
 - 127.0.0.1
 - Que sont le copyright et le copyleft ?
 - Que sont les Creatives Commons ?
