@@ -90,7 +90,6 @@ Une attaque par force brute, ou attaque par exhaustivité, est une méthode util
 
 - Qui est Linus Torvalds ?
 En 1991, un étudiant en informatique finlandais appelé Linus Torvalds écrivit la première version d'un noyau Unix pour son propre usage, et le publia sur l'Internet en demandant à d'autres programmeurs de l'aider pour le finaliser. : Il fut submergé par les réponses et ce qui était à la base un projet d'étudiant devint de fil en aiguille un système d'exploitation complet : http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html
-
 - Quels sont ses plus grands développements ?
 GNU/Linux
 
@@ -98,6 +97,9 @@ GNU/Linux
 
 
 - Combien coûte un nom de domaine ?
+Selon le registrar et l'extension choisie de votre nom de domaine, le prix d'un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Sachez qu'en plus du nom de domaine, vous aurez à payer un hébergement supplémentaire pour que votre nom de domaine soit en ligne et visible par les internautes. : https://www.google.fr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Combien+co%C3%BBte+un+nom+de+domaine
+
+
 - Quels sont les différents services d'emailing disponibles ?
 - Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 - Quelle est votre adress IP actuelle ?
