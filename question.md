@@ -187,6 +187,9 @@ Aucun inconvenient :-) : http://www.etre-meilleur.com/gestion-du-temps/la-techni
 	
 
 - Qu’est-ce qu’Amazon Web Services - AWS ?
+ est une plateforme de services de cloud sécurisée, qui met notamment à disposition de la puissance de calcul et des fonctionnalités de stockage de base de données et de livraison de contenus pour aider les entreprises à grandir et à monter en échelle : https://aws.amazon.com/fr/what-is-aws/ 
+
+
 - Qui est Sundar Pichai ?
 - Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 - Qu'est-ce qu'une Cheatsheet ?
