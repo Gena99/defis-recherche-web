@@ -181,6 +181,11 @@ L'inventeur du premier serveur web
 sous les trois
 
 - En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+La philosophie derrière la technique de la tomate consiste à ne se consacrer pleinement qu’à une tâche à la fois.
+Elle introduit une composante indispensable à tout modèle de réussite : la discipline.
+Aucun inconvenient :-) : http://www.etre-meilleur.com/gestion-du-temps/la-technique-pomodoro-ou-lart-de-gerer-son-temps-grace-a-une-tomate.html
+	
+
 - Qu’est-ce qu’Amazon Web Services - AWS ?
 - Qui est Sundar Pichai ?
 - Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
