@@ -147,22 +147,15 @@ Ils étaient 7 collaborateurs, L'Apollo Guidance Computer a été programmé en 
 
 
 - Trouvez un screenshot de la première version de Facebook
+
 - Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+
 - Qu'est-ce que le load balancing ?
+ est un ensemble de techniques permettant de distribuer une charge de travail entre différents ordinateurs d'un groupe : https://fr.wikipedia.org/wiki/R%C3%A9partition_de_charge
+
+ 
 - Qu’est-ce que l’Open Source ?
 - Qu’est-ce que le Bug Bounty ?
-- Qu'est-ce qu'une adresse IP v4 ?
-- Pourquoi parle-t-on aussi d'adresse IP v6 ?
-- Combien coûte un serveur pour héberger mon site perso ?
-- Qu’est-ce que le Cowboy coding ?
-- Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
-- Quelles sont les différences entre un software open-source et un software free ?
-- Trouvez trois entreprises qui développent des solutions Free & OpenSource
-- comment gagnent-elles de l’argent ?
-- Qui est Phil Zimmermann ?
-- Qu’est-ce que le W3C ?
-- Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
-- Que sont les White Hat et les Black Hat ?
 - Qu’est-ce qu’une attaque DDoS ?
 - Quelles est l'adresse MAC de votre ordinateur ?
 - Et de votre smartphone ?
