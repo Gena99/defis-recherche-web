@@ -45,8 +45,11 @@ est une organisation à but non lucratif dont le but est de proposer une solutio
 - Qui est Grace Hopper ?
 est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959 : https://fr.wikipedia.org/wiki/Grace_Hopper
 
-Pioner du langage informatique
 - Qu'est-ce que Qwant ?
+Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats : https://fr.wikipedia.org/wiki/Qwant
+
+
+
 - Qui est Steve Wozniak ?
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
 - Qu’est-ce que le projet GNU ?
