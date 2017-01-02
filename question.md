@@ -114,7 +114,7 @@ Selon le registrar et l'extension choisie de votre nom de domaine, le prix d'un 
 Phplist : Pour moi le meilleur logiciel opensource pour un emailing propre et gratuit. (Limité à 300 messages par mois dans la version gratutie) : http://www.tonwebmarketing.fr/emailing/top-des-meilleurs-logiciel-d-emailing-de-masse
 
 - Quelle est votre adress IP actuelle ?
-185.131.40.120 
+185.131.40.120 avec la ligne de commande :  ficonf
 
 - Et celle de votre smartphone ?
 176.139.251.251
@@ -170,7 +170,13 @@ Une attaque DDoS vise à rendre un serveur, un service ou une infrastructure ind
 
 
 - Et de votre smartphone ?
+
 - Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+Emagma
+Synergie 
+Hays 
+inbenta FRANCE
+
 - Qui est Tim Berners-Lee ?
 - Comment sont reliés les différents réseaux d'internet ?
 - Qu’est-ce que KISS ?
