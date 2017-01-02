@@ -125,6 +125,9 @@ Le modèle du cycle en V2 a été imaginé pour pallier le problème de réactiv
 
 
 - Les Hackers sont-ils des hors-la-loi ?
+Non Le jargon informatique classe les hackers en plusieurs catégories en fonction de leurs objectifs, de leur compétence et de la légalité de leurs actes. En revanche à fifferncier avec Crackers qui eux, pirate un système ou autre par malveillance : https://fr.wikipedia.org/wiki/Hacker_(s%C3%A9curit%C3%A9_informatique)
+
+
 - Qui a inventé la souris ?
 - Qui est Margaret Hamilton ?
 - Retrouvez le code source de la mission Apollo 11.
