@@ -85,6 +85,9 @@ est une informaticienne et chef d'entreprise américaine. Elle occupe le poste d
 
 
 - Qu’est-ce qu’une attaque “brute force” ?
+Une attaque par force brute, ou attaque par exhaustivité, est une méthode utilisée par les pirates et en cryptanalyse pour découvrir le mot de passe ou la clef. Exhaustivité car il s'agit d'essayer toutes les combinaisons possibles : https://openclassrooms.com/courses/eviter-les-attaques-par-force-brute
+
+
 - Qui est Linus Torvalds ?
 - Quels sont ses plus grands développements ?
 - Combien coûte un nom de domaine ?
