@@ -159,8 +159,16 @@ La définition de l'Open Source est une déclaration des droits de l'utilisateur
 
 
 - Qu’est-ce que le Bug Bounty ?
+est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités. Ces programmes permettent aux développeurs de découvrir et de corriger des bugs avant que le grand public en soit informé, évitant ainsi des abus. Les bugs bounty ont été mis en place par Facebook, Yahoo, Google, Reddit, et Square : https://fr.wikipedia.org/wiki/Bug_bounty
+
 - Qu’est-ce qu’une attaque DDoS ?
+Une attaque DDoS vise à rendre un serveur, un service ou une infrastructure indisponibles en surchargeant la bande passante du serveur, ou en accaparant ses ressources jusqu'à épuisement : https://www.google.fr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=-+Qu%E2%80%99est-ce+qu%E2%80%99une+attaque+DDoS
+
+
 - Quelles est l'adresse MAC de votre ordinateur ?
+ 24:b6:fd:fb:bf:c3 avec la ligne de commande /sbin/ifconfig
+
+
 - Et de votre smartphone ?
 - Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 - Qui est Tim Berners-Lee ?
