@@ -74,6 +74,10 @@ est un programmeur et militant du logiciel libre. Initiateur du mouvement du log
 
 
 - Comment fonctionnent les bang de Duck Duck Go ?
+DuckDuckGo est un moteur de recherche lancé le 25 septembre 2008 et financé par le serial entrepreneur Gabriel Weinberg (@yegg).
+Ce moteur de recherche pas tout à fait comme les autres a fait la promesse de ne pas stocker les données des utilisateurs relatifs à l’usage qu’ils font d’Internet.Sa politique de confidentialité se résume en 2 phrases:« NOUS NE CONSERVONS AUCUNE INFORMATION PERSONNELLE.
+C’EST, EN RÉSUMÉ, NOTRE POLITIQUE DE CONFIDENTIALITÉ. » : http://macaficionados.com/2015/08/03/duckduckgo-le-moteur-de-recherche-internet-anti-espions-7770/
+
 - Qui est Marissa Mayer ?
 - Qu’est-ce qu’une attaque “brute force” ?
 - Qui est Linus Torvalds ?
