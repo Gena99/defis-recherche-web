@@ -60,6 +60,9 @@ En fait son usage date de… 1945 et du temps des premiers ordinateurs. Énormes
 
 
 -Qui est Aaron Swartz ?
+est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie. : https://fr.wikipedia.org/wiki/Aaron_Swartz
+
 - Qu’est-ce que le projet GNU ?
 - Quelles sont les différences entre le Http et le Https ?
 - Qui est Richard Stallman ?
