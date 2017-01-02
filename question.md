@@ -129,7 +129,12 @@ Non Le jargon informatique classe les hackers en plusieurs catégories en foncti
 
 
 - Qui a inventé la souris ?
+Douglas Engelbart : https://www.google.fr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Qui+a+invent%C3%A9+la+souris
+
+
 - Qui est Margaret Hamilton ?
+
+
 - Retrouvez le code source de la mission Apollo 11.
 - Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
 - Qu’est-ce que Agile Manifesto ?
