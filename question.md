@@ -67,6 +67,8 @@ Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'orga
 GNU est un système d'exploitation constitué de logiciel libre – c'est-à-dire qu'il respecte la liberté des utilisateurs. Le développement de GNU a rendu possible l'utilisation d'un ordinateur sans logiciel susceptible de bafouer votre liberté : https://www.gnu.org/home.fr.html
 
 - Quelles sont les différences entre le Http et le Https ?
+HTTP signifie "HyperText Transport Protocol", communément appelé un protocole pour les informations transmises entre les serveurs web et leurs clients. C'est la lettre S qui fait toute la différence entre HTTP et HTTPS. Le S est synonyme de Secure (sécurité) : https://www.google.fr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=difference%20entre%20le%20http%20et%20https
+
 - Qui est Richard Stallman ?
 - Comment fonctionnent les bang de Duck Duck Go ?
 - Qui est Marissa Mayer ?
