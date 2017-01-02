@@ -22,6 +22,8 @@ C'est l'adresse public du domain name server de Google
 
 - 192.168.0.1
 
+Une adresse IP du routeur
+
 Un masque de sous réseau
  est une adresse IP par défaut utilisée par les routeurs Netgear et D-Link pour s'identifier sur le réseau. 
 
@@ -29,9 +31,17 @@ Un masque de sous réseau
 Un masque de sous réseau
 
 - 127.0.0.1
+adresse de l hote en local
+
 - Que sont le copyright et le copyleft ?
+ Copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
+ Copyleft : Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également.
+
+
 - Que sont les Creatives Commons ?
 - Qui est Grace Hopper ?
+
+Pioner du langage informatique
 - Qu'est-ce que Qwant ?
 - Qui est Steve Wozniak ?
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
