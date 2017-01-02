@@ -140,7 +140,12 @@ https://github.com/chrislgarry/Apollo-11
 
 
 - Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+Ils étaient 7 collaborateurs, L'Apollo Guidance Computer a été programmé en langage assemblé.
+
 - Qu’est-ce que Agile Manifesto ?
+ est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles : https://fr.wikipedia.org/wiki/Manifeste_agile
+
+
 - Trouvez un screenshot de la première version de Facebook
 - Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 - Qu'est-ce que le load balancing ?
