@@ -172,7 +172,11 @@ https://www.indeed.fr/emplois?q=Developpeur+Web+Junior&l=toulouse
 L'inventeur du premier serveur web
 
 - Comment sont reliés les différents réseaux d'internet ?
+
+
 - Qu’est-ce que KISS ?
+ est une ligne directrice de conception qui préconise la simplicité dans la conception et que toute complexité non indispensable devrait être évitée dans toute la mesure du possible : https://fr.wikipedia.org/wiki/Principe_KISS
+
 - Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 - En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 - Qu’est-ce qu’Amazon Web Services - AWS ?
