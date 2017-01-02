@@ -133,7 +133,7 @@ Douglas Engelbart : https://www.google.fr/webhp?sourceid=chrome-instant&ion=1&es
 
 
 - Qui est Margaret Hamilton ?
-
+ est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention1) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo : https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
 
 - Retrouvez le code source de la mission Apollo 11.
 - Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
