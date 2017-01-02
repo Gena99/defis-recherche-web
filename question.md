@@ -153,8 +153,11 @@ Ils étaient 7 collaborateurs, L'Apollo Guidance Computer a été programmé en 
 - Qu'est-ce que le load balancing ?
  est un ensemble de techniques permettant de distribuer une charge de travail entre différents ordinateurs d'un groupe : https://fr.wikipedia.org/wiki/R%C3%A9partition_de_charge
 
- 
+
 - Qu’est-ce que l’Open Source ?
+La définition de l'Open Source est une déclaration des droits de l'utilisateur d'ordinateur. Elle définit certains droits que la licence d'un logiciel doit vous garantir pour pouvoir être qualifiée d'Open Source : http://www.linux-france.org/article/these/the_osd/fr-the_open_source_definition_monoblock.html
+
+
 - Qu’est-ce que le Bug Bounty ?
 - Qu’est-ce qu’une attaque DDoS ?
 - Quelles est l'adresse MAC de votre ordinateur ?
