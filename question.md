@@ -106,9 +106,13 @@ Selon le registrar et l'extension choisie de votre nom de domaine, le prix d'un 
  Icontact 
  ConstantContact
  Sarbacane 
+ Phplist
+ eMailing Pro
  http://www.tonwebmarketing.fr/emailing/top-des-meilleurs-logiciel-d-emailing-de-masse
 
-- Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+- Un client veut vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+Phplist : Pour moi le meilleur logiciel opensource pour un emailing propre et gratuit. (Limité à 300 messages par mois dans la version gratutie) : http://www.tonwebmarketing.fr/emailing/top-des-meilleurs-logiciel-d-emailing-de-masse
+
 - Quelle est votre adress IP actuelle ?
 - Et celle de votre smartphone ?
 - Qu’est-ce que le développement en cycle V ?
