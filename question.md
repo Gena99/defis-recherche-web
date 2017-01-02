@@ -35,10 +35,13 @@ adresse de l hote en local
 
 - Que sont le copyright et le copyleft ?
  Copyright : Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique.
- Copyleft : Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également.
+ Copyleft : Le copyleft est une façon de rendre un programme ou tout autre œuvre libre, et qui requière que toutes les versions modifiées et étendues du programme soient libres également : https://forum.ubuntu-fr.org/viewtopic.php?id=39233
 
 
 - Que sont les Creatives Commons ?
+est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs : https://fr.wikipedia.org/wiki/Creative_Commons
+
+
 - Qui est Grace Hopper ?
 
 Pioner du langage informatique
