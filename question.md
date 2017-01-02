@@ -55,7 +55,11 @@ Qwant est un moteur de recherche français, créé le 16 février 2013, puis lan
 Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique : https://fr.wikipedia.org/wiki/Steve_Wozniak
 
 
-- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
+- D'où vient l'expression "bug informatique" ?
+En fait son usage date de… 1945 et du temps des premiers ordinateurs. Énormes machines, fonctionnant en particulier avec des lampes (allumées/éteintes pour signifier les 1/0* de l’informatique). Et il arriva que certains insectes vinrent s’y brûler les ailes, grillèrent alors les lampes, générant ainsi la panne… http://astucieux-filemaker.com/un-bug-est-ne/
+
+
+-Qui est Aaron Swartz ?
 - Qu’est-ce que le projet GNU ?
 - Quelles sont les différences entre le Http et le Https ?
 - Qui est Richard Stallman ?
