@@ -114,7 +114,7 @@ Selon le registrar et l'extension choisie de votre nom de domaine, le prix d'un 
 Phplist : Pour moi le meilleur logiciel opensource pour un emailing propre et gratuit. (Limité à 300 messages par mois dans la version gratutie) : http://www.tonwebmarketing.fr/emailing/top-des-meilleurs-logiciel-d-emailing-de-masse
 
 - Quelle est votre adress IP actuelle ?
- 192.168.0.154 adresse locale
+185.131.40.120 
 
 - Et celle de votre smartphone ?
 176.139.251.251
