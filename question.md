@@ -70,6 +70,9 @@ GNU est un système d'exploitation constitué de logiciel libre – c'est-à-dir
 HTTP signifie "HyperText Transport Protocol", communément appelé un protocole pour les informations transmises entre les serveurs web et leurs clients. C'est la lettre S qui fait toute la différence entre HTTP et HTTPS. Le S est synonyme de Secure (sécurité) : https://www.google.fr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=difference%20entre%20le%20http%20et%20https
 
 - Qui est Richard Stallman ?
+est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais copyleft. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels : https://fr.wikipedia.org/wiki/Richard_Stallman
+
+
 - Comment fonctionnent les bang de Duck Duck Go ?
 - Qui est Marissa Mayer ?
 - Qu’est-ce qu’une attaque “brute force” ?
