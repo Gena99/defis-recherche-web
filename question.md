@@ -114,8 +114,16 @@ Selon le registrar et l'extension choisie de votre nom de domaine, le prix d'un 
 Phplist : Pour moi le meilleur logiciel opensource pour un emailing propre et gratuit. (Limité à 300 messages par mois dans la version gratutie) : http://www.tonwebmarketing.fr/emailing/top-des-meilleurs-logiciel-d-emailing-de-masse
 
 - Quelle est votre adress IP actuelle ?
+ 192.168.0.154 adresse locale
+
 - Et celle de votre smartphone ?
+176.139.251.251
+
+
 - Qu’est-ce que le développement en cycle V ?
+Le modèle du cycle en V2 a été imaginé pour pallier le problème de réactivité du modèle en cascade. Ce modèle est une amélioration du modèle en cascade qui permet en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés afin d'améliorer le logiciel : https://fr.wikipedia.org/wiki/Cycle_de_d%C3%A9veloppement_(logiciel)
+
+
 - Les Hackers sont-ils des hors-la-loi ?
 - Qui a inventé la souris ?
 - Qui est Margaret Hamilton ?
