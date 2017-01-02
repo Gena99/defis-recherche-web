@@ -64,6 +64,8 @@ est un informaticien américain, écrivain, meneur politique et militant de l'In
 Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie. : https://fr.wikipedia.org/wiki/Aaron_Swartz
 
 - Qu’est-ce que le projet GNU ?
+GNU est un système d'exploitation constitué de logiciel libre – c'est-à-dire qu'il respecte la liberté des utilisateurs. Le développement de GNU a rendu possible l'utilisation d'un ordinateur sans logiciel susceptible de bafouer votre liberté : https://www.gnu.org/home.fr.html
+
 - Quelles sont les différences entre le Http et le Https ?
 - Qui est Richard Stallman ?
 - Comment fonctionnent les bang de Duck Duck Go ?
