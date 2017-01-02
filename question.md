@@ -43,6 +43,7 @@ est une organisation à but non lucratif dont le but est de proposer une solutio
 
 
 - Qui est Grace Hopper ?
+est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959 : https://fr.wikipedia.org/wiki/Grace_Hopper
 
 Pioner du langage informatique
 - Qu'est-ce que Qwant ?
