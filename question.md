@@ -191,6 +191,8 @@ Aucun inconvenient :-) : http://www.etre-meilleur.com/gestion-du-temps/la-techni
 
 
 - Qui est Sundar Pichai ?
+est un dirigeant d'entreprise indo-américain, président-directeur général de Google : https://fr.wikipedia.org/wiki/Sundar_Pichai
+
 - Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 - Qu'est-ce qu'une Cheatsheet ?
 - Combien de requêtes y-a-t-il sur Google toutes les minutes ?
